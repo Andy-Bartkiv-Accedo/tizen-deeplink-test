@@ -1,5 +1,5 @@
 const paramountAppId = "rJyOSqC6Up.PPlusIntl";
-const secondAppId = "3201710014981";
+const secondAppId = "rJyOSqC6Up.CBSAllAccess";
 const testAppId = "RIizRBD0Fg.DeepLinkTest";
 const storeAppId = "com.samsung.tv.store";
 
